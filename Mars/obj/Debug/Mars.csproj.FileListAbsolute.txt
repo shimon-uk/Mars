@@ -1,0 +1,4 @@
+C:\GitHub\Mars\Mars\bin\Debug\Mars.dll
+C:\GitHub\Mars\Mars\bin\Debug\Mars.pdb
+C:\GitHub\Mars\Mars\obj\Debug\Mars.dll
+C:\GitHub\Mars\Mars\obj\Debug\Mars.pdb

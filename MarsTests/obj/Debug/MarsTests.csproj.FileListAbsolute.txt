@@ -1,0 +1,9 @@
+C:\GitHub\Mars\MarsTests\obj\Debug\MarsTests.csprojResolveAssemblyReference.cache
+C:\GitHub\Mars\MarsTests\bin\Debug\MarsTests.dll
+C:\GitHub\Mars\MarsTests\bin\Debug\MarsTests.pdb
+C:\GitHub\Mars\MarsTests\bin\Debug\Mars.dll
+C:\GitHub\Mars\MarsTests\bin\Debug\nunit.framework.dll
+C:\GitHub\Mars\MarsTests\bin\Debug\Mars.pdb
+C:\GitHub\Mars\MarsTests\bin\Debug\nunit.framework.xml
+C:\GitHub\Mars\MarsTests\obj\Debug\MarsTests.dll
+C:\GitHub\Mars\MarsTests\obj\Debug\MarsTests.pdb

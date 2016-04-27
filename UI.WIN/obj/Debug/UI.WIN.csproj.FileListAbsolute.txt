@@ -1,0 +1,11 @@
+C:\GitHub\Mars\UI.WIN\bin\Debug\UI.WIN.exe.config
+C:\GitHub\Mars\UI.WIN\bin\Debug\UI.WIN.exe
+C:\GitHub\Mars\UI.WIN\bin\Debug\UI.WIN.pdb
+C:\GitHub\Mars\UI.WIN\bin\Debug\Mars.dll
+C:\GitHub\Mars\UI.WIN\bin\Debug\Mars.pdb
+C:\GitHub\Mars\UI.WIN\obj\Debug\UI.WIN.csprojResolveAssemblyReference.cache
+C:\GitHub\Mars\UI.WIN\obj\Debug\UI.WIN.Form1.resources
+C:\GitHub\Mars\UI.WIN\obj\Debug\UI.WIN.Properties.Resources.resources
+C:\GitHub\Mars\UI.WIN\obj\Debug\UI.WIN.csproj.GenerateResource.Cache
+C:\GitHub\Mars\UI.WIN\obj\Debug\UI.WIN.exe
+C:\GitHub\Mars\UI.WIN\obj\Debug\UI.WIN.pdb

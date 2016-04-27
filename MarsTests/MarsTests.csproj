@@ -71,9 +71,18 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PlateauTests.cs" />
+    <Compile Include="RobotTests.cs" />
+    <Compile Include="RobotsCollectionTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Mars\Mars.csproj">
+      <Project>{25d655e4-ad36-49b6-961d-ca3f1f728503}</Project>
+      <Name>Mars</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
